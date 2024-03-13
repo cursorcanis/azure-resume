@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\backend",
+    "\\backend\\api",
     "\\frontend"
   ],
-  "SelectedNode": "\\frontend\\index.html",
+  "SelectedNode": "\\backend\\api\\GetResumeCounter.cs",
   "PreviewInSolutionExplorer": false
 }
